@@ -2,7 +2,9 @@
 
 ## Bienvenue sur la page Github dédié au jeu "Les Trente Elus 3" créé par Voldre avec RPG Maker MV.
 
-Ici vous ne trouverez que les fonctionnalités qui font tourner le jeu, autrement dit les datas, le code (en .js et .json), mais les ressources n'y sont pas présente, car elle ne porte que peu d'intérêt d'un point de vu programmation.
+Ici vous ne trouverez que les fonctionnalités qui font tourner le jeu, autrement dit les datas, le code (en .js et .json), mais les ressources n'y sont pas présentent, car elles ne portent que peu d'intérêt d'un point de vu programmation.
 
-Néanmoins, vous pouvez directement télécharger le dossier contenant le jeu et y jouer via ce lien : **https://voldre.itch.io/les-trente-elus-3**
-A la fois la version **Windows** et la version **Android**.
+Néanmoins, vous pouvez vous rendre sur le Site Web dédier à l'univers "Les Trente Elus" juste ici : **https://voldre.wixsite.com/les-trente-elus**
+Vous pouvez également jouer directement au jeu sur votre navigateur via ce lien : **https://voldre.wixsite.com/les-trente-elus/play-lte3**
+
+Le jeu est disponible sur **Windows**, **Android**, et sur **Navigateur**.
